@@ -1,0 +1,10 @@
+site_name: Tropicana
+site_description: 'Documentatie van Tropicana Roleplay'
+site_author: 'Tropicana'
+theme:
+  name: material
+  features:
+    - tabs
+plugins:
+  - search
+  - awesome-pages
